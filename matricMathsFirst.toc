@@ -1,0 +1,3 @@
+\select@language {arabic}
+\contentsline {chapter}{\numberline {1}جزو ضرب اور مضرب}{1}% 
+\contentsline {chapter}{جوابات}{3}% 
