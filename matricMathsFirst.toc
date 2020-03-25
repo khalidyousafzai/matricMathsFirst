@@ -1,3 +1,5 @@
 \select@language {arabic}
 \contentsline {chapter}{\numberline {1}جزو ضرب اور مضرب}{1}% 
-\contentsline {chapter}{جوابات}{3}% 
+\contentsline {chapter}{\numberline {2}تفرق}{3}% 
+\contentsline {section}{\numberline {2.1}اعداد کی مختلف اقسام}{3}% 
+\contentsline {chapter}{جوابات}{13}% 

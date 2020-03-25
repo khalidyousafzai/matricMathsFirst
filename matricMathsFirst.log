@@ -1,8 +1,8 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.8)  25 MAR 2020 10:30
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.8)  25 MAR 2020 18:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**matricMathsFirst.tex
+**matricMathsFirst
 (./matricMathsFirst.tex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/book.cls
@@ -1818,9 +1818,9 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 Package: catchfile 2016/05/16 v1.7 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2020325630.tex)...disabled (restricted).
+runsystem(touch w18-test-20203251104.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2020325630.tex)...disabled (restricted).
+runsystem(rm -f w18-test-20203251104.tex)...disabled (restricted).
 
 runsystem(rm -f "matricMathsFirst.gnuploterrors")...disabled (restricted).
 
@@ -1866,7 +1866,7 @@ LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/n' will be
 No file ./tex/calculusPreface.aux.
 No file ./tex/prefaceFirstBook.aux.
 (./tex/factorsAndMultiples.aux) (./tex/integers.aux)
-(./tex/estimationAndApproximation.aux)
+(./tex/estimationAndApproximation.aux) (./tex/differentiation.aux)
 No file ./tex/questions.aux.
 )
 \openout1 = `matricMathsFirst.aux'.
@@ -2087,43 +2087,172 @@ No file ./tex/integers.tex.
 \openout2 = `./tex/estimationAndApproximation.aux'.
 
 No file ./tex/estimationAndApproximation.tex.
-[2
+\openout2 = `./tex/differentiation.aux'.
+
+(./tex/differentiation.tex [2
 
 
 
 
 
 
-
-
-] (./answer.tex) [3] [4
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 221.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 221.
- (./matricMathsFirst.aux
+باب 2.
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/n' will be
+(Font)              scaled to size 14.4pt on input line 2.
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/bx/n' will be
+(Font)              scaled to size 14.4pt on input line 2.
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+
+Overfull \hbox (0.35095pt too wide) detected at line 13
+[] \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 0.5,  [] \OT1/zplm/m/n/10 = \OT1/ppl/m/n/
+10 0.466 [] ,  [] \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 0.4375,  [] \OT1/zplm/m/n/
+10 = \OT1/ppl/m/n/10 0.411764705882352941176 []
+ []
+
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+[3]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/sl' in size <10> n
+ot available
+(Font)              Font shape `TU/JameelNooriNastaleeq(0)/m/it' tried instead 
+on input line 61.
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 61.
+ [4]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [5]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [6]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [7]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [8]
+Missing character: There is no ک in font zplmr7m!
+Missing character: There is no چ in font zplmr7m!
+Missing character: There is no ھ in font zplmr7m!
+Missing character: There is no ب in font zplmr7m!
+Missing character: There is no ھ in font zplmr7m!
+Missing character: There is no ی in font zplmr7m!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۤ in font zplmr7m!
+Missing character: There is no ۤ in font zplmr7m!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [9]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [10]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [11]) [12] (./answer.tex) [13
+
+
+
+
+] [14
+
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 222.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 222.
+
+(./matricMathsFirst.aux
 No file ./tex/calculusPreface.aux.
 No file ./tex/prefaceFirstBook.aux.
 (./tex/factorsAndMultiples.aux) (./tex/integers.aux)
-(./tex/estimationAndApproximation.aux)
+(./tex/estimationAndApproximation.aux) (./tex/differentiation.aux)
 No file ./tex/questions.aux.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 221.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 221.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 222.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 222.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 221.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 222.
  ) 
 Here is how much of TeX's memory you used:
- 57242 strings out of 492922
- 1433726 string characters out of 6133407
- 1796616 words of memory out of 5000000
- 60264 multiletter control sequences out of 15000+600000
- 555721 words of font info for 133 fonts, out of 8000000 for 9000
+ 57257 strings out of 492922
+ 1434203 string characters out of 6133407
+ 1804455 words of memory out of 5000000
+ 60270 multiletter control sequences out of 15000+600000
+ 555737 words of font info for 135 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 78i,9n,136p,2357b,584s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 78i,9n,136p,2353b,589s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on matricMathsFirst.pdf (8 pages).
+Output written on matricMathsFirst.pdf (18 pages).
