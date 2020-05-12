@@ -1,6 +1,4 @@
 \باب{مثلث}
-
-
 %138
 اس سبق میں ہم سائن ، کوسائن اور ٹینجنٹ کے بارے میں پڑھیں گے، جب آپ یہ سبق مکمل کر لیں گے تو آپ اس قابل ہوں گے کہ؛
 \begin{enumerate}
@@ -31,10 +29,12 @@
 آپ اس تعریف کی اثرات دیکھیں گے جب زاویہ 90 کا مضرب ہوگا۔
 \ابتدا{مثال}
 مثلثی تناسب \(\cos{\theta}^{0}\) کی قیمت معلوم کریں جب ؛
+\begin{multicols}{2.}
 \begin{enumerate}
-\item \[\theta=180\]
-\item  \[\theta=270\]
+\item \(\theta=180\)
+\item  \(\theta=270\)
 \end{enumerate}
+\end{multicols}
 \begin{enumerate}
 \item
   جب \(\theta=180\)، P ایک نقطہ ہے جسکے محدد(-1,0) ہیں ۔ جیسا کہ x محدد نقطہ P  کا -1 ہے لہٰذہ \(\cos^{0}180=-1\) ہے۔
@@ -278,22 +278,15 @@
 \[\cos (180 - \theta)^o =\cos (\theta -180)^o=-\cos \theta^o\]
 مثلث میں\(\cos \theta^o\) کا کلیہ استعمال کرتے ہوئے آپ کا اس خصوصیت سے واسطہ پڑا ہو گا ۔   \(\sin \theta^o\) کی ترمیم جو شکل 9۔10 میں دکھائی گئی ہے،کے لیے بھی ایسی ہی خصوصیات ہیں۔ مشق 10-- کے ایک سوال میں آپ ان خصوصیات کے وجود کو ثابت گے۔ ان کو ثابت کرنے کا طریقہ-- کی خصوصیات کو ثابت کرنے کے طریقے سے مماثلت رکھنا ہے۔  \(\cos \theta^o\)   اور  \(\sin \theta^o\)
  کے تفاعل کے خصوصیات درج ذیل ہیں۔
-\begin{multicols}{3}
-\begin{enumerate}[]
-\item تواتر کی خصوصیات
-\item تاک کی خصوصیات 
-\item مستقیم حرکت کی خصوصیات
-\item ----
+\begin{description}
+\item [تواتر کی خصوصیات] \( \sin (-\theta)^o= -\sin \theta^o \), \(\cos (-\theta)^o= \cos \theta^o\)
+\item [تاک کی خصوصیات] \(\cos (\theta -180)^o=-\cos \theta^o\),\(\sin (\theta - 180)^o=-\sin \theta^o\)
+\item [مستقیم حرکت کی خصوصیات]
 \item \(\cos ( \theta \pm 360)^o=\cos \theta^o\)
-\item \(\cos (-\theta)^o= \cos \theta^o\)
-\item \(\cos (\theta -180)^o=-\cos \theta^o\)
 \item \( \cos (180- \theta)^o=-\cos \theta^o\)
 \item  \(\sin (\theta \pm 360)^o=\sin \theta^o \)
-\item \( \sin (-\theta)^o= -\sin \theta^o \)
-\item \(\sin (\theta - 180)^o=-\sin \theta^o\)
 \item \( \sin (180-\theta )^o=\sin \theta^o\)
-\end{enumerate}
-\end{multicols}
+\end{description}
 
 
 
@@ -362,7 +355,7 @@
 \(\cos \theta^o = k\)کی مساوات حل کرنے کے لیے فرض کریں کہ ۔\(-1 \leq k \leq 1\)
  اگر \(k\)اس شرط پر پورا اترے تو مساوات کا کوئی حل نہیں ہوگا۔ شکل 10.10 میں\(k\) کی منفی قیمت دکھائی گئی ہے۔ یاد رکھیں ہر 360 درجے کے وقفے میں \(\cos \theta^o = k\)کے دو جزر ہوتے ہیں سواۓ جب \(k= \pm 1\)ہو۔
 
-حساب کتاب کے آلے پر \([\cos^{-1}]\)کابٹن دبائیں تو آپکو وہ زاویہ ملے گا جس سے مساوات درست ثابت ہو گی۔ کچھ آلات پر [ARCCOS] کا بٹن ہوگا۔ لیکن بدقسمتی سے اس طریقے میں ہمیں صرف ایک جزر ملے گا۔ عموما آپ  دیے گئے وقفے میں  \(\cos \theta^o = k\)کے تمام جزر حاصل کرنا چاہتےہیں۔
+حساب کتاب کے آلے پر \([\cos^{-1}]\)کابٹن دبائیں تو آپکو وہ زاویہ ملے گا جس سے مساوات درست ثابت ہو گی۔ کچھ آلات پر الٹ کوسائن کا بٹن ہوگا۔ لیکن بدقسمتی سے اس طریقے میں ہمیں صرف ایک جزر ملے گا۔ عموما آپ  دیے گئے وقفے میں  \(\cos \theta^o = k\)کے تمام جزر حاصل کرنا چاہتےہیں۔
 
  \(\cos \theta^o = k\)کی مساوات کو حل کرنے کے لیے 3 افدام ہیں:-
 
@@ -370,7 +363,8 @@
 \item
 \([\cos^{-1}k]\)معلوم کریں۔
 \item
- تشاکل کی خصوصیت استعمال کرتے ہوۓ مزید ایک جزر حاصل کریں۔ تشاکل کی خصوصیت یہ ہے \(cos (-\theta)^o=\cos \theta^o\) ۔
+ تشاکل کی خصوصیت استعمال کرتے ہوۓ مزید ایک جزر حاصل کریں۔ تشاکل کی خصوصیت یہ ہے
+ \(\cos (-\theta)^o=\cos \theta^o\) ۔
 
 \item
  تواتر کی خصوصیت یعنی \(\cos (\theta \pm 360)^o = \cos \theta^o\) کا استعمال کرتے ہوۓ مزید جزر معلوم کریں۔
@@ -508,7 +502,7 @@
 %here is the error
 \begin{multicols}{3}
 \begin{enumerate}[a.]
-\item \( sin \left(2t-30\right)^{\circ}=\frac{1}{2} \) 
+\item \(\sin \left(2t-30\right)^{\circ}=\frac{1}{2} \) 
 \item \( \tan\left(2t-45\right)^{\circ}= 0 \) 
 \item \( \cos\left(3t+135\right)^{\circ}=\frac{1}{2}\sqrt{3} \) 
 \item \( \tan\left(\frac{3}{2}t-45\right)^{\circ}=-\sqrt{3} \) 
@@ -531,7 +525,7 @@
 \item \( \sin z^{\circ}=-0.16 \) 
 \item \( \cos z^{\circ}\left(1+\sin z^{\circ}\right)=0 \) 
 \item \( \left(1-\tan z^{\circ}\right)\sin z^{\circ} = 0 \) 
-\item \( \sin z^{circ}=0.23 \) 
+\item \( \sin z^{\circ}=0.23 \) 
 \item \( \cos\left(45+z\right)^{\circ}=0.832 \) 
 \item \( \tan\left(3z-17\right)^{\circ}=3 \) 
 \end{enumerate}
@@ -540,7 +534,7 @@
  
 \انتہا{سوال}
 \ابتدا{سوال}
-  وقفے   \( 0 \leqslant \theta \leqslant 360 \) میں موجود درج ذیل مساوات کے لیے زاویے \( \theta \) 	کی قیمت معلعم کریں۔%Q8 
+  وقفے   \( 0 \leq \theta \leq 360 \) میں موجود درج ذیل مساوات کے لیے زاویے \( \theta \) 	کی قیمت معلعم کریں۔%Q8 
 
 
 \begin{multicols}{3}
@@ -555,10 +549,11 @@
 \انتہا{سوال}
 \ابتدا{سوال}
 
-وقفے \( 0 \leqslant \theta \leqslant \)  میں زاویے کی تمام قیمتیں معلوم کریں جنکے لیے مساوات \( s\sin\theta^{\circ}\cos\theta^{\circ}=\frac{1}{2}\tan\theta^{\circ} \) درست ثابت ہو۔
+وقفے \( 0 \leq \theta \leq \)  میں زاویے کی تمام قیمتیں معلوم کریں جنکے لیے مساوات
+ \( \sin\theta^{\circ}\cos\theta^{\circ}=\frac{1}{2}\tan\theta^{\circ} \) درست ثابت ہو۔
 \انتہا{سوال}
 \ابتدا{سوال}
-درجہ ذیل قیمتوں کے لیے مثلثی تفاعل sine,cosine   اور  tangent کی ایک مثال بنائیں اور اس طرح کے بتائ گی قیمت پے یہ تفاعل خود کو دہراتا ہو۔
+درجہ ذیل قیمتوں کے لیے مثلثی تفاعل سائن، کوسائن اور ٹینجنٹ کی ایک مثال بنائیں اور اس طرح کے بتائ گی قیمت پے یہ تفاعل خود کو دہراتا ہو۔
 %Q10 
 \begin{multicols}{3}
 \begin{enumerate}[a.]
@@ -572,7 +567,7 @@
 \end{multicols}
 \انتہا{سوال}
 \ابتدا{سوال}
-وقفے \( 0 \leqslant \phi \leqslant 360 \) میں درج ذیل کی ترسیم بنائیں ، ہر ایک سوال میں تفاعل کے دورانیے کا بھی بتائیں ۔ 
+وقفے \( 0 \leq \phi \leq 360 \) میں درج ذیل کی ترسیم بنائیں ، ہر ایک سوال میں تفاعل کے دورانیے کا بھی بتائیں ۔ 
 
 \begin{multicols}{3}
 \begin{enumerate}[a.]
@@ -723,8 +718,9 @@ a^{2} &=&(b-c\cos A\degree)^2+(c\sin A\degree)^2\\
 \انتہا{سوال}
 
 \ابتدا {سوال}
-اور اس مساوات  \(\cos^2\theta\degree+\sin\theta\degree \equiv1\) اور اس مساوات \(\tan \theta\degree\equiv\cfrac{\sin\theta\degree}{\cos\theta}\)کا استعمال کریں بشرطیکہ\(\cos\theta\degree \neq 0 \) اور نیچے دی گئ مساوات کو ثابت کریں۔
-\begin{enumerate}
+اور اس مساوات  \(\cos^2\theta\degree+\sin^2\theta\degree \equiv1\) اور اس مساوات \(\tan \theta\degree\equiv\cfrac{\sin\theta\degree}{\cos\theta}\)کا استعمال کریں بشرطیکہ\(\cos\theta\degree \neq 0 \) اور نیچے دی گئ مساوات کو ثابت کریں۔
+\begin{multicols}{2.}
+\begin{enumerate}[a.]
 \item
 \(\cfrac{1}{\sin\theta\degree}-\cfrac{1}{\tan\theta\degree}\equiv\cfrac{1-\cos\theta\degree}{\sin\theta\degree}\)
 \item
@@ -734,15 +730,18 @@ a^{2} &=&(b-c\cos A\degree)^2+(c\sin A\degree)^2\\
 \item
 \(\cfrac{\tan\theta\degree\sin\theta\degree}{1-\cos\theta\degree}\equiv1+\cfrac{1}{\cos\theta\degree} \)
 \end{enumerate}
+\end{multicols}
 \انتہا{سوال}
 \ابتدا{سوال}
 دی گئ تمام مساوات کو زاویے کی قیمت کے لیے حل کریں ، اور وقفے  \(  0\le \theta\le 360\) میں زاویے کے جوابات دیں اس بات کو خیال رکھتے ہوۓ کہ آپکے جوابات 0.1 کے قرئب ترین درست ہوں۔ 
-\begin{enumerate}
+\begin{multicols}{2.}
+\begin{enumerate}[a.]
 \item     \(4\sin^2\theta\degree-1=0\)
 \item      \(\sin^2\theta\degree+2\cos^2\theta\degree=2 \)
 \item \(10\sin^2\theta\degree-5\cos^2\theta\degree+2=4\sin\theta\degree \)
 \item    \(4\sin^2\theta\degree\cos\theta\degree=\tan^2\theta\degree\)
 \end{enumerate}
+\end{multicols}
 \انتہا{سوال}
 \ابتدا{سوال}
  دیے گۓ وقفے 
@@ -753,29 +752,34 @@ a^{2} &=&(b-c\cos A\degree)^2+(c\sin A\degree)^2\\
 
 \ابتدا{سوال}
 درج ذیل کی دہرائ کا نقطہ معلوم کریں
-\begin{enumerate}
+\begin{multicols}{2.}
+\begin{enumerate}[a.]
 \item \(\sin x\degree\)
 \item   \(\tan2x\degree \)
 \end{enumerate}
+\end{multicols}
 \انتہا{سوال}
 \ابتدا{سوال}
 \( y=\cos x^{0} \)
 کی ترسیم کو ذہن میں رکھتے ہوۓ یا پھر درج ذیل کو \( \cos x^{0} \) کی صورت میں لکھیں 
-\begin{enumerate}
+\begin{multicols}{2.}
+\begin{enumerate}[a.]
 \item  \(\cos(360-x)\degree \)
 \item    \(\cos(x+180)\degree \)
 \end{enumerate}
+\end{multicols}
 \انتہا{سوال}
 \ابتدا{سوال}
 مساوات \(y=\cos\frac{1}{2}\theta\degree \) کی ترسیم بنائیں اور وقفے \(-360\le \theta\le 360\) میں زاویے کی قیمت معلوم کریں۔ ان نقطوں کے محدد بھی واضع کریں کہ جن پے ترسیم  \( \theta   \) اور \(   y \) محدد کو کاٹے گا۔
 \انتہا{سوال}
 \ابتدا{سوال}
 درج ذیل مساوات کو زاویے کے لیے حل کریں . آپکا جواب وقفے \(0\le \theta\le 360\) میں ہونا چاہیے 
-
-\begin {enumerate}
+\begin{multicols}{2.}
+\begin {enumerate}[a.]
 \item  \(\tan\theta\degree=0.4 \)
 \item    \(\sin2\theta\degree=0.4\)
 \end{enumerate}
+\end{multicols}
 \انتہا{سوال}
 
 
@@ -806,8 +810,9 @@ a^{2} &=&(b-c\cos A\degree)^2+(c\sin A\degree)^2\\
 \انتہا{سوال}
 
 \ابتدا{سوال}
-زاویہ A کی وہ کم ترین قیمت معلوم کریں کہ جس کے لیے؛
-\begin{enumerate}
+زاویہ A کی وہ کم ترین قیمت معلوم کریں کہ جس کے لیے
+\begin{multicols}{2.}
+\begin{enumerate}[a.]
 \item
 \(\sin A\degree=0.2\)
 اور \(\cos A\degree\) منفی ہوں۔
@@ -821,19 +826,23 @@ a^{2} &=&(b-c\cos A\degree)^2+(c\sin A\degree)^2\\
 \(\sin A\degree=-0.2275 \)
 اور \(A>360 \)۔
 \end{enumerate}
+\end{multicols}
 \انتہا{سوال}
 \ابتدا{سوال}
 درج ذیل مماثل کو ثابت کریں۔
-\begin{enumerate}
+\begin{multicols}{2.}
+\begin{enumerate}[a.]
 \item   \(\cfrac{1}{\sin\theta\degree}-\sin\theta\degree\equiv\cfrac{\cos\theta\degree}{\tan\theta\degree} \)
 \item  \(\cfrac{1-\sin\theta\degree}{\cos\theta\degree}\equiv\cfrac{\cos\theta\degree}{1+\sin\theta\degree}\)
 \item    \(\cfrac{1}{\tan\theta\degree}+\tan\theta\degree\equiv\cfrac{1}{\sin\theta\degree\cos\theta\degree} \)
 \item     \(\cfrac{1-2\sin^2\theta\degree}{\cos\theta\degree+\sin\theta\degree}\equiv \cos\theta\degree-\sin\theta\degree \)
 \end{enumerate}
+\end{multicols}
 \انتہا{سوال}
 \ابتدا{سوال}
 درج ذیل تفاعل کے لیے y کی کم ترین اور ذیادہ ترین قمتیں جبکہ x کی کم ترین مثبت قیمت معلوم کریں کہ جس کے لیے یہ تفاعل درست ثابت ہوں۔
-\begin{enumerate}
+\begin{multicols}{2.}
+\begin{enumerate}[a.]
 \item  \(y=1+\cos2x\degree \)
 \item   \(y=5-4\sin(x+30)\degree \)
 \item     \(y=29-20\sin(3x-45)\degree \)
@@ -841,16 +850,19 @@ a^{2} &=&(b-c\cos A\degree)^2+(c\sin A\degree)^2\\
 \item   \(y=\cfrac{12}{3+\cos x\degree} \)
 \item  \(y=\cfrac{60}{1+\sin^2(2x-15)\degree} \)
 \end{enumerate}
+\end{multicols}
 
 \انتہا{سوال}
 \ابتدا{سوال}
 درج ذیل مساوات کو زاویے کے لیے حل کریں اور آپنا جواب اس وقفے \(0\le x\le 360\)  میں دیں۔
-\begin{enumerate}
+\begin{multicols}{2.}
+\begin{enumerate}[a.]
 \item   \(\sin\theta\degree=\tan\theta\degree \)
 \item    \(2-2\cos^2\theta\degree=\sin\theta\degree \)
 \item     \(\tan^2\theta\degree-2\tan\theta\degree=1 \)
 \item    \(\sin2\theta\degree-\sqrt{3}\cos2\theta\degree=0 \)
 \end{enumerate}
+\end{multicols}
 \انتہا{سوال}
 \ابتدا{سوال}
 t 
@@ -868,8 +880,6 @@ t
 \end{enumerate}
 
 \end{enumerate}
-
-
 \انتہا{سوال}
 
 %page 154
@@ -891,9 +901,12 @@ t
 ایک فولادی دوشاخہ مرتعش ہے۔ اسکی ایک شاخ کے آخری سرے کا ہٹاؤ  y رکی ہوئ حالت سے ذیادہ سے ذیادہ ہٹاؤ تک وقت t میں بیان کرنے کے لیے کلیہ ہے۔\[y=0.1 \sin(100000t)\degree \]
 معلوم کریں؛
 \begin{enumerate}
-\item سب سے ذیادہ ہٹاؤ اور کس وقت یہ وقوع پزیر ہوگا   ۔
-\item     ایک مکمل چکر کے لیے کتنا وقت لگے گا۔
-\item    ایک سیکنڈ میں کتنے دائرے مکمل کرے گا فولادی دوشاخے کا  ارتعاش
+\item
+ سب سے ذیادہ ہٹاؤ اور کس وقت یہ وقوع پزیر ہوگا۔
+\item    
+ ایک مکمل چکر کے لیے کتنا وقت لگے گا۔
+\item    
+ایک سیکنڈ میں کتنے دائرے مکمل کرے گا فولادی دوشاخے کا  ارتعاش۔
 \item  
  پہلے مکمل دائرے کے دوران وہ وقت بتائیں کہ جب فالادی دوشاخے کا دوسرا سرا اپنی رکی ہوئ حالت سے 0.06 سینٹی میٹر ہٹتا ہے۔ 
 \end{enumerate}

@@ -2,17 +2,17 @@
 \contentsline {chapter}{\numberline {1}غیرمعقول اور طاقتیں}{1}% 
 \contentsline {section}{\numberline {1.1}اعداد کی اقسام}{1}% 
 \contentsline {section}{\numberline {1.2}نامعقولیے اور ان کی خصوصیات}{2}% 
-\contentsline {section}{\numberline {1.3}طاقتوں کا استعمال}{12}% 
-\contentsline {section}{\numberline {1.4}(}{13}% 
-\contentsline {section}{\numberline {1.5}کسری طاقتیں}{19}% 
-\contentsline {chapter}{\numberline {2}مثلث}{29}% 
-\contentsline {section}{\numberline {2.1}\(\qopname \relax o{cos}{\theta }^{0}\)کی ترسیم }{29}% 
-\contentsline {section}{\numberline {2.2}\(\qopname \relax o{sin}{\theta }^{0}\)اور\(\qopname \relax o{tan}{\theta }^{0}\) کی ترسیم }{31}% 
-\contentsline {section}{\numberline {2.3}چند مثلق تفاعل کی درست قیمیتیں}{32}% 
-\contentsline {section}{\numberline {2.4}\( \qopname \relax o{cos}\theta ^o, \tmspace +\thinmuskip {.1667em}\qopname \relax o{sin}\theta ^o \) اور \(\qopname \relax o{tan}\theta ^o\) کی ترانیم کی تشاکل کی خصوصیات}{35}% 
-\contentsline {section}{\numberline {2.5}مثلثی تفاعل کی مساوات کا حل}{37}% 
-\contentsline {section}{\numberline {2.6}مثلثی تفاعل کے باہمی روابط}{41}% 
-\contentsline {chapter}{\numberline {3}انقلاب کا حجم}{51}% 
-\contentsline {section}{\numberline {3.1}انقلاب کی جلدیں}{51}% 
-\contentsline {section}{\numberline {3.2}\(y\)-محور کے گرد انقلاب کی جلدیں}{53}% 
-\contentsline {chapter}{جوابات}{57}% 
+\contentsline {section}{\numberline {1.3}طاقتوں کا استعمال}{8}% 
+\contentsline {section}{\numberline {1.4}صفر اور منفی طاقت}{10}% 
+\contentsline {section}{\numberline {1.5}کسری طاقتیں}{14}% 
+\contentsline {chapter}{\numberline {2}مثلث}{23}% 
+\contentsline {section}{\numberline {2.1}\(\qopname \relax o{cos}{\theta }^{0}\)کی ترسیم }{23}% 
+\contentsline {section}{\numberline {2.2}\(\qopname \relax o{sin}{\theta }^{0}\)اور\(\qopname \relax o{tan}{\theta }^{0}\) کی ترسیم }{25}% 
+\contentsline {section}{\numberline {2.3}چند مثلق تفاعل کی درست قیمیتیں}{26}% 
+\contentsline {section}{\numberline {2.4}\( \qopname \relax o{cos}\theta ^o, \tmspace +\thinmuskip {.1667em}\qopname \relax o{sin}\theta ^o \) اور \(\qopname \relax o{tan}\theta ^o\) کی ترانیم کی تشاکل کی خصوصیات}{29}% 
+\contentsline {section}{\numberline {2.5}مثلثی تفاعل کی مساوات کا حل}{31}% 
+\contentsline {section}{\numberline {2.6}مثلثی تفاعل کے باہمی روابط}{35}% 
+\contentsline {chapter}{\numberline {3}انقلاب کا حجم}{45}% 
+\contentsline {section}{\numberline {3.1}انقلاب کی جلدیں}{45}% 
+\contentsline {section}{\numberline {3.2}\(y\)-محور کے گرد انقلاب کی جلدیں}{47}% 
+\contentsline {chapter}{جوابات}{51}% 
