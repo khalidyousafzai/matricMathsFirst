@@ -21,23 +21,22 @@
 \contentsline {chapter}{\numberline {6}تفرق}{47}% 
 \contentsline {chapter}{\numberline {7}تفرق کے استعمال}{49}% 
 \contentsline {chapter}{\numberline {8}ترتیبات}{51}% 
-\contentsline {chapter}{\numberline {9}ترتیبات}{53}% 
-\contentsline {chapter}{\numberline {10}الکراجی کا مسئلہ ثنائی}{55}% 
-\contentsline {chapter}{\numberline {11}تکونیات}{57}% 
-\contentsline {section}{\numberline {11.1}\(\qopname \relax o{cos}{\theta }^{0}\)کی ترسیم }{57}% 
-\contentsline {section}{\numberline {11.2}\(\qopname \relax o{sin}{\theta }^{0}\)اور\(\qopname \relax o{tan}{\theta }^{0}\) کی ترسیم }{59}% 
-\contentsline {section}{\numberline {11.3}چند مثلق تفاعل کی درست قیمیتیں}{60}% 
-\contentsline {section}{\numberline {11.4}\( \qopname \relax o{cos}\theta ^o, \tmspace +\thinmuskip {.1667em}\qopname \relax o{sin}\theta ^o \) اور \(\qopname \relax o{tan}\theta ^o\) کی ترانیم کی تشاکل کی خصوصیات}{63}% 
-\contentsline {section}{\numberline {11.5}مثلثی تفاعل کی مساوات کا حل}{65}% 
-\contentsline {section}{\numberline {11.6}مثلثی تفاعل کے باہمی روابط}{69}% 
-\contentsline {chapter}{\numberline {12}تفاعل کا مجموعہ اور تفاعل کا الٹ}{79}% 
-\contentsline {chapter}{\numberline {13}وسعت تفرق}{81}% 
-\contentsline {chapter}{\numberline {14}سمتیات}{83}% 
-\contentsline {chapter}{\numberline {15}ہندسی ترتیبات}{85}% 
-\contentsline {chapter}{\numberline {16}دہرا تکملات}{87}% 
-\contentsline {chapter}{\numberline {17}تکمل}{89}% 
-\contentsline {chapter}{\numberline {18}حجم جسم طواف}{91}% 
-\contentsline {section}{\numberline {18.1}انقلاب کی جلدیں}{91}% 
-\contentsline {section}{\numberline {18.2}\(y\)-محور کے گرد انقلاب کی جلدیں}{93}% 
-\contentsline {chapter}{\numberline {19}ریڈیئن}{97}% 
-\contentsline {chapter}{جوابات}{99}% 
+\contentsline {chapter}{\numberline {9}الکراجی کا مسئلہ ثنائی}{53}% 
+\contentsline {chapter}{\numberline {10}تکونیات}{55}% 
+\contentsline {section}{\numberline {10.1}\(\qopname \relax o{cos}{\theta }^{0}\)کی ترسیم }{55}% 
+\contentsline {section}{\numberline {10.2}\(\qopname \relax o{sin}{\theta }^{0}\)اور\(\qopname \relax o{tan}{\theta }^{0}\) کی ترسیم }{57}% 
+\contentsline {section}{\numberline {10.3}چند مثلق تفاعل کی درست قیمیتیں}{58}% 
+\contentsline {section}{\numberline {10.4}\( \qopname \relax o{cos}\theta ^o, \tmspace +\thinmuskip {.1667em}\qopname \relax o{sin}\theta ^o \) اور \(\qopname \relax o{tan}\theta ^o\) کی ترانیم کی تشاکل کی خصوصیات}{61}% 
+\contentsline {section}{\numberline {10.5}مثلثی تفاعل کی مساوات کا حل}{63}% 
+\contentsline {section}{\numberline {10.6}مثلثی تفاعل کے باہمی روابط}{67}% 
+\contentsline {chapter}{\numberline {11}تفاعل کا مجموعہ اور تفاعل کا الٹ}{77}% 
+\contentsline {chapter}{\numberline {12}وسعت تفرق}{79}% 
+\contentsline {chapter}{\numberline {13}سمتیات}{81}% 
+\contentsline {chapter}{\numberline {14}ہندسی ترتیبات}{83}% 
+\contentsline {chapter}{\numberline {15}دہرا تفرقات}{85}% 
+\contentsline {chapter}{\numberline {16}تکمل}{97}% 
+\contentsline {chapter}{\numberline {17}حجم جسم طواف}{99}% 
+\contentsline {section}{\numberline {17.1}انقلاب کی جلدیں}{99}% 
+\contentsline {section}{\numberline {17.2}\(y\)-محور کے گرد انقلاب کی جلدیں}{101}% 
+\contentsline {chapter}{\numberline {18}ریڈیئن}{105}% 
+\contentsline {chapter}{جوابات}{107}% 
