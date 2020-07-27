@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.8)  22 JUL 2020 09:37
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.8)  27 JUL 2020 11:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1818,9 +1818,9 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 Package: catchfile 2016/05/16 v1.7 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2020722577.tex)...disabled (restricted).
+runsystem(touch w18-test-2020727691.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2020722577.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2020727691.tex)...disabled (restricted).
 
 runsystem(rm -f "FscMathsFirst.gnuploterrors")...disabled (restricted).
 
@@ -2059,6 +2059,10 @@ e 140.
 (./FscMathsFirst.toc
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/bx/n' will be
 (Font)              scaled to size 10.0pt on input line 2.
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
  [3])
 \tf@toc=\write7
 \openout7 = `FscMathsFirst.toc'.
@@ -2599,66 +2603,319 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 باب 7.
-) [69]
+[69]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [70] [71]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [72] [73]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [74]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq Italic/OT:scrip
+t=arab;language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq Italic/OT:scrip
+t=arab;language=DFLT;!
+ [75] [76]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq Italic/OT:scrip
+t=arab;language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq Italic/OT:scrip
+t=arab;language=DFLT;!
+ [77]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [78]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq Italic/OT:scrip
+t=arab;language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq Italic/OT:scrip
+t=arab;language=DFLT;!
+ [79] [80]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [81]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [82] [83]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+
+[84] [85]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [86] [87] [88]
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+[][]$\OT1/ppl/m/n/10 3\OML/zplm/m/it/10 x[] \OMS/zplm/m/n/10 ^^@ \OT1/ppl/m/n/1
+0 5\OML/zplm/m/it/10 x \OMS/zplm/m/n/10 ^^@$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+[][]$\OT1/ppl/m/n/10 5\OML/zplm/m/it/10 x[] \OT1/zplm/m/n/10 + \OT1/ppl/m/n/10 
+3\OML/zplm/m/it/10 x \OMS/zplm/m/n/10 ^^@$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+[][]$\OT1/ppl/m/n/10 2\OML/zplm/m/it/10 x[] \OMS/zplm/m/n/10 ^^@ \OT1/ppl/m/n/1
+0 8\OML/zplm/m/it/10 x \OT1/zplm/m/n/10 +$[]
+ []
+
+
+Overfull \hbox (3.23158pt too wide) in paragraph at lines 226--227
+[][]$\OT1/ppl/m/n/10 4 \OT1/zplm/m/n/10 + \OT1/ppl/m/n/10 7\OML/zplm/m/it/10 x 
+\OMS/zplm/m/n/10 ^^@ \OT1/ppl/m/n/10 2\OML/zplm/m/it/10 x[] $ []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
+[][]$\OT1/ppl/m/n/10 2\OML/zplm/m/it/10 x[] \OMS/zplm/m/n/10 ^^@ \OT1/ppl/m/n/1
+0 18\OML/zplm/m/it/10 x \OT1/zplm/m/n/10 +$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+[][]$\OML/zplm/m/it/10 x[] \OMS/zplm/m/n/10 ^^@ \OT1/ppl/m/n/10 3\OML/zplm/m/it
+/10 x[] \OT1/zplm/m/n/10 + \OT1/ppl/m/n/10 3\OML/zplm/m/it/10 x \OT1/zplm/m/n/1
+0 +$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+[][]$\OT1/ppl/m/n/10 2\OML/zplm/m/it/10 x[] \OMS/zplm/m/n/10 ^^@ \OT1/ppl/m/n/1
+0 5\OML/zplm/m/it/10 x[] \OT1/zplm/m/n/10 +$[]
+ []
+
+[89]
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+[][]$\OML/zplm/m/it/10 x[] \OMS/zplm/m/n/10 ^^@ \OT1/ppl/m/n/10 27\OML/zplm/m/i
+t/10 xforx \OMS/zplm/m/n/10 ^^U$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
+[][]$\OT1/ppl/m/n/10 2\OML/zplm/m/it/10 x[] \OT1/zplm/m/n/10 + \OT1/ppl/m/n/10 
+3\OML/zplm/m/it/10 x[] \OMS/zplm/m/n/10 ^^@ \OT1/ppl/m/n/10 36\OML/zplm/m/it/10
+ x \OMS/zplm/m/n/10 ^^@$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
+[][]$\OML/zplm/m/it/10 x[] \OMS/zplm/m/n/10 ^^@ \OT1/ppl/m/n/10 2\OML/zplm/m/it
+/10 x[]\OT1/ppl/m/n/10 , \OML/zplm/m/it/10 forx >$[]
+ []
+
+
+Overfull \hbox (1.58397pt too wide) in paragraph at lines 271--272
+[][]$\OML/zplm/m/it/10 x[]\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 x[] \OMS/zplm/m/n
+/10 ^^@ \OT1/ppl/m/n/10 13\OT1/zplm/m/n/10 ) $ []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
+[][]$\OML/zplm/m/it/10 x \OT1/zplm/m/n/10 + []\OML/zplm/m/it/10 forx \OMS/zplm/
+m/n/10 6\OT1/zplm/m/n/10 =$[]
+ []
+
+[90]
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
+[][]$\OT1/ppl/m/n/10 3\OML/zplm/m/it/10 x[] \OT1/zplm/m/n/10 + \OT1/ppl/m/n/10 
+12\OML/zplm/m/it/10 x \OT1/zplm/m/n/10 +$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
+[][]$\OT1/ppl/m/n/10 2\OML/zplm/m/it/10 x[] \OT1/zplm/m/n/10 + \OT1/ppl/m/n/10 
+3\OML/zplm/m/it/10 x[] \OMS/zplm/m/n/10 ^^@ \OT1/ppl/m/n/10 72\OML/zplm/m/it/10
+ x \OT1/zplm/m/n/10 +$[]
+ []
+
+[91]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [92]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ، in font pplr7t!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [93]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [94]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [95]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [96]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [97]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [98] [99] [100] [101]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [102] [103] [104]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+
+[105] [106]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [107]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [108]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [109]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [110]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [111]
+Missing character: There is no ، in font pplr7t!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [112]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [113]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [114]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [115] [116]
+[117]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [118]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [119] [120]) [121]
 \openout2 = `./tex/sequences.aux'.
 
- (./tex/sequences.tex [70
+ (./tex/sequences.tex [122
 
 
 
 
 ]
 باب 8.
-) [71]
+) [123]
 \openout2 = `./tex/theBinomialTheorem.aux'.
 
- (./tex/theBinomialTheorem.tex [72
+ (./tex/theBinomialTheorem.tex [124
 
 
 
 
 ]
 باب 9.
-) [73]
+) [125]
 \openout2 = `./tex/trignometry.aux'.
 
- (./tex/trignometry.tex [74
+ (./tex/trignometry.tex [126
 
 
 
 
 ]
 باب 10.
-[75]
+[127]
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
- [76]
+ [128]
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
- [77]
+ [129]
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
- [78] [79]
+ [130] [131]
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
- [80]
+ [132]
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
- [81]
+ [133]
 Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
 Missing character: There is no ا in font zplmr7m!
 Missing character: There is no و in font zplmr7m!
 Missing character: There is no ر in font zplmr7m!
- [82]
+ [134]
 Overfull \vbox (1.67674pt too high) has occurred while \output is active []
 
 
-[83]
+[135]
 Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
 Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
@@ -2675,137 +2932,11 @@ Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
 Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
- [84]
+ [136]
 Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
 Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-
-Overfull \vbox (1.67674pt too high) has occurred while \output is active []
-
-
-[85]
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
- [86]
 Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
 Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
@@ -2850,7 +2981,133 @@ language=DFLT;!
 Overfull \vbox (1.67674pt too high) has occurred while \output is active []
 
 
-[87] [88] [89]
+[137]
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [138]
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ـ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+
+Overfull \vbox (1.67674pt too high) has occurred while \output is active []
+
+
+[139] [140] [141]
 Overfull \hbox (76.91911pt too wide) in paragraph at lines 282--283
 [][]$[]\OT1/zplm/m/n/10 (\OMS/zplm/m/n/10 ^^@\OML/zplm/m/it/10 ^^R\OT1/zplm/m/n
 /10 )[] = \OMS/zplm/m/n/10 ^^@ [] \OML/zplm/m/it/10 ^^R[]$\TU/JameelNooriNastal
@@ -2866,37 +3123,20 @@ n/10 180\OT1/zplm/m/n/10 )[] = \OMS/zplm/m/n/10 ^^@ [] \OML/zplm/m/it/10 ^^R[]$
  \OMS/zplm/m/n/10 ^^@$[]
  []
 
-[90]
+[142]
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
- [91]
+ [143]
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
- [92]
+ [144]
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
- [93]
-Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
- [94] [95]
+ [145]
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
@@ -2913,7 +3153,7 @@ Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
- [96]
+ [146] [147]
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
@@ -2928,7 +3168,9 @@ Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
- [97]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [148]
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
@@ -2939,17 +3181,32 @@ Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
- [98]
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
- [99]
+ [149]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [150]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [151]
 Underfull \hbox (badness 10000) in paragraph at lines 508--509
 [][]$[] [][] \OT1/zplm/m/n/10 =$[]
  []
 
-[100] [101]
+[152] [153]
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
@@ -2958,24 +3215,14 @@ Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
- [102] [103]
+ [154] [155]
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
- [104] [105]
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
+ [156] [157]
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
@@ -2986,7 +3233,17 @@ Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
- [106]
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [158]
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
@@ -3100,7 +3357,7 @@ Missing character: There is no ° in font pplr7t!
 LaTeX Warning: Command \l invalid in math mode on input line 680.
 
 Missing character: There is no ł in font zplmr7m!
-[107]
+[159]
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
@@ -3147,7 +3404,7 @@ Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
- [108]
+ [160]
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
@@ -3193,7 +3450,7 @@ Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
-[109]
+[161]
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
@@ -3302,7 +3559,7 @@ Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
- [110]
+ [162]
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
@@ -3337,7 +3594,7 @@ Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
- [111]
+ [163]
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
@@ -3371,7 +3628,7 @@ Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
-[112]
+[164]
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
@@ -3492,7 +3749,7 @@ Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
- [113]
+ [165]
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
@@ -3531,22 +3788,22 @@ Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
- [114]
+ [166]
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
- [115]
+ [167]
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
- [116]
+ [168]
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
- [117]
+ [169]
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
@@ -3559,10 +3816,10 @@ Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
- [118]
+ [170]
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
- [119]
+ [171]
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
@@ -3579,77 +3836,77 @@ Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
 Missing character: There is no ° in font pplr7t!
- [120]) [121]
+ [172]) [173]
 \openout2 = `./tex/combiningAndInvertingFunctions.aux'.
 
 
-(./tex/combiningAndInvertingFunctions.tex [122
+(./tex/combiningAndInvertingFunctions.tex [174
 
 
 
 
 ]
 باب 11.
-) [123]
+) [175]
 \openout2 = `./tex/extendingDifferentiation.aux'.
 
- (./tex/extendingDifferentiation.tex [124
+ (./tex/extendingDifferentiation.tex [176
 
 
 
 
 ]
 باب 12.
-) [125]
+) [177]
 \openout2 = `./tex/vectors.aux'.
 
- (./tex/vectors.tex [126
+ (./tex/vectors.tex [178
 
 
 
 
 ]
 باب 13.
-) [127]
+) [179]
 \openout2 = `./tex/geometricSequences.aux'.
 
- (./tex/geometricSequences.tex [128
+ (./tex/geometricSequences.tex [180
 
 
 
 
 ]
 باب 14.
-) [129]
+) [181]
 \openout2 = `./tex/secondDerivatives.aux'.
 
- (./tex/secondDerivatives.tex [130
+ (./tex/secondDerivatives.tex [182
 
 
 
 
 ]
 باب 15.
-[131]
+[183]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [132]
+ [184]
 Underfull \hbox (badness 10000) in paragraph at lines 21--25
 [][]
  []
 
-[133]
+[185]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [134]
-[135] [136] [137]
+ [186]
+[187] [188] [189]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [138]
+ [190]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [139]
-[140]
+ [191]
+[192]
 Underfull \hbox (badness 10000) in paragraph at lines 161--172
 [][]
  []
@@ -3659,10 +3916,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 183--217
 [][]
  []
 
-[141]
+[193]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [142]
+ [194]
 Underfull \hbox (badness 10000) in paragraph at lines 218--220
 [][]
  []
@@ -3672,13 +3929,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 226--253
 [][]
  []
 
-[143]
+[195]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [144]
+ [196]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [145]
+ [197]
 Underfull \hbox (badness 10000) in paragraph at lines 254--261
 [][]
  []
@@ -3688,35 +3945,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 262--268
 [][]
  []
 
-[146]
+[198]
 Underfull \hbox (badness 10000) in paragraph at lines 275--308
 [][]
  []
 
-[147]
+[199]
 Underfull \hbox (badness 10000) in paragraph at lines 309--311
 [][]
  []
 
-[148]
+[200]
 Underfull \hbox (badness 10000) in paragraph at lines 311--334
 [][]
  []
 
-[149] [150]
+[201] [202]
 Underfull \hbox (badness 10000) in paragraph at lines 354--366
 [][]
  []
 
-[151] [152]
+[203] [204]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [153]
+ [205]
 Underfull \hbox (badness 10000) in paragraph at lines 402--410
 [][]
  []
 
-[154]
+[206]
 Underfull \hbox (badness 10000) in paragraph at lines 422--423
 [][]
  []
@@ -3726,18 +3983,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 433--468
 [][]
  []
 
-[155]
+[207]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [156]
+ [208]
 Underfull \hbox (badness 10000) in paragraph at lines 493--510
 [][]
  []
 
-[157]
+[209]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [158]
+ [210]
 Underfull \hbox (badness 10000) in paragraph at lines 521--525
 [][]
  []
@@ -3747,60 +4004,276 @@ Underfull \hbox (badness 10000) in paragraph at lines 526--528
 [][]
  []
 
-) [159]
+) [211]
 \openout2 = `./tex/integration.aux'.
 
- (./tex/integration.tex [160
+ (./tex/integration.tex [212
 
 
 
 
 ]
 باب 16.
-) [161]
+) [213]
 \openout2 = `./tex/volumeOfRevolution.aux'.
 
- (./tex/volumeOfRevolution.tex [162
+ (./tex/volumeOfRevolution.tex [214
 
 
 
 
 ]
 باب 17.
-[163] [164] [165] [166] [167] [168]
+[215] [216] [217] [218] [219] [220]
 Overfull \hbox (60.34274pt too wide) detected at line 57
 []
  []
 
-[169]
+[221]
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
- [170] [171]
+ [222] [223]
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
- [172]
+ [224]
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
- [173]
+ [225]
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
- [174]) [175]
+ [226]) [227]
 \openout2 = `./tex/radians.aux'.
 
- (./tex/radians.tex [176
+ (./tex/radians.tex [228
 
 
 
 
 ]
 باب 18.
-) [177] [178
+[229] [230] [231]
+Underfull \hbox (badness 10000) in paragraph at lines 85--89
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--118
+[][]
+ []
+
+[232]
+Underfull \hbox (badness 10000) in paragraph at lines 120--128
+[][]
+ []
+
+[233]
+Underfull \hbox (badness 10000) in paragraph at lines 139--141
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--154
+[][]
+ []
+
+[234]
+Underfull \hbox (badness 10000) in paragraph at lines 161--253
+[][]
+ []
+
+[235]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [236]
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--278
+[][]
+ []
+
+[237]
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
+[][]
+ []
+
+[238]
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+[][]
+ []
+
+[239]
+Underfull \hbox (badness 10000) in paragraph at lines 341--350
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--398
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--398
+[][]
+ []
+
+[240] [241]
+Underfull \hbox (badness 10000) in paragraph at lines 415--417
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--430
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--437
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 446--448
+[][]
+ []
+
+[242] [243]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [244]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [245]
+[246]
+Underfull \hbox (badness 10000) in paragraph at lines 634--640
+[][]
+ []
+
+[247]
+Underfull \hbox (badness 10000) in paragraph at lines 665--669
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 678--682
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 691--697
+[][]
+ []
+
+
+Overfull \vbox (0.97643pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (0.81618pt too high) has occurred while \output is active []
+
+
+[248]
+Underfull \hbox (badness 10000) in paragraph at lines 709--713
+[][]
+ []
+
+[249]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [250]
+Underfull \hbox (badness 10000) in paragraph at lines 823--827
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 832--975
+[][]
+ []
+
+[251]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [252]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [253]
+Underfull \hbox (badness 10000) in paragraph at lines 975--988
+[][]
+ []
+
+[254]
+Underfull \hbox (badness 10000) in paragraph at lines 991--992
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 997--1009
+[][]
+ []
+
+[255]
+Underfull \hbox (badness 10000) in paragraph at lines 1025--1034
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1042--1043
+[][]
+ []
+
+[256]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [257]
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1096--1105
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1106--1154
+[][]
+ []
+
+[258]
+Underfull \hbox (badness 10000) in paragraph at lines 1156--1214
+[][]
+ []
+
+[259])
+Underfull \hbox (badness 10000) in paragraph at lines 1215--173
+[][]
+ []
+
+[260]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [261]
+[262] (./answer.tex) [263
 
 
 
-] (./answer.tex) [179] [180
+] [264
 
 
 ]
@@ -3829,12 +4302,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 231.
  ) 
 Here is how much of TeX's memory you used:
- 57594 strings out of 492922
- 1441794 string characters out of 6133407
- 1823215 words of memory out of 5000000
- 60495 multiletter control sequences out of 15000+600000
+ 57596 strings out of 492922
+ 1441830 string characters out of 6133407
+ 1823248 words of memory out of 5000000
+ 60497 multiletter control sequences out of 15000+600000
  586486 words of font info for 239 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  78i,22n,136p,6440b,1310s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on FscMathsFirst.pdf (184 pages).
+Output written on FscMathsFirst.pdf (268 pages).
