@@ -94,10 +94,10 @@
 \contentsline {chapter}{\numberline {12}وسعت تفرق}{163}% 
 \contentsline {chapter}{\numberline {13}سمتیات}{165}% 
 \contentsline {chapter}{\numberline {14}ہندسی ترتیبات}{167}% 
-\contentsline {chapter}{\numberline {15}دہرا تفرقات}{169}% 
-\contentsline {chapter}{\numberline {16}تکمل}{181}% 
-\contentsline {chapter}{\numberline {17}حجم جسم طواف}{183}% 
-\contentsline {section}{\numberline {17.1}انقلاب کی جلدیں}{183}% 
-\contentsline {section}{\numberline {17.2}\(y\)-محور کے گرد انقلاب کی جلدیں}{185}% 
-\contentsline {chapter}{\numberline {18}ریڈیئن}{189}% 
-\contentsline {chapter}{جوابات}{205}% 
+\contentsline {chapter}{\numberline {15}دہرا تفرقات}{187}% 
+\contentsline {chapter}{\numberline {16}تکمل}{199}% 
+\contentsline {chapter}{\numberline {17}حجم جسم طواف}{201}% 
+\contentsline {section}{\numberline {17.1}انقلاب کی جلدیں}{201}% 
+\contentsline {section}{\numberline {17.2}\(y\)-محور کے گرد انقلاب کی جلدیں}{203}% 
+\contentsline {chapter}{\numberline {18}ریڈیئن}{207}% 
+\contentsline {chapter}{جوابات}{223}% 

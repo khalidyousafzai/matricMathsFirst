@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.8)  6 SEP 2020 09:47
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.8)  6 SEP 2020 13:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1818,9 +1818,9 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 Package: catchfile 2016/05/16 v1.7 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-202096587.tex)...disabled (restricted).
+runsystem(touch w18-test-202096801.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-202096587.tex)...disabled (restricted).
+runsystem(rm -f w18-test-202096801.tex)...disabled (restricted).
 
 runsystem(rm -f "FscMathsFirst.gnuploterrors")...disabled (restricted).
 
@@ -4526,22 +4526,309 @@ Missing character: There is no ° in font pplr7t!
 
 ]
 باب 14.
-) [167]
-\openout2 = `./tex/secondDerivatives.aux'.
 
- (./tex/secondDerivatives.tex [168
+Underfull \hbox (badness 10000) in paragraph at lines 2--22
+[][]
+ []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+[][]
+ []
 
+[167] [168]
+Underfull \hbox (badness 10000) in paragraph at lines 86--94
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--107
+[][]
+ []
+
+[169
 
 ]
+Missing character: There is no 𝑟 in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--144
+[][]
+ []
+
+[170]
+Underfull \hbox (badness 10000) in paragraph at lines 145--147
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--149
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--151
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--177
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--182
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--190
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--194
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--214
+[][]
+ []
+
+[171
+
+] [172]
+Underfull \hbox (badness 10000) in paragraph at lines 215--231
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--234
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--242
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--248
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--253
+[][]
+ []
+
+[173
+
+] [174]
+Underfull \hbox (badness 10000) in paragraph at lines 254--267
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--269
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--280
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--283
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--286
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--290
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--294
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--296
+[][]
+ []
+
+[175
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 296--298
+[][]
+ []
+
+[176]
+Underfull \hbox (badness 10000) in paragraph at lines 300--303
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--305
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--314
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--316
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--325
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--332
+[][]
+ []
+
+[177
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 332--334
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--336
+[][]
+ []
+
+[178]
+Underfull \hbox (badness 10000) in paragraph at lines 337--338
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--340
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--349
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--352
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--354
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--356
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
+[][]
+ []
+
+[179
+
+]
+Missing character: There is no   in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [180
+
+]
+Missing character: There is no   in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no   in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no   in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [181
+
+]
+Missing character: There is no   in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no   in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no   in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 436--438
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--456
+[][]
+ []
+
+[182
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 470--472
+[][]
+ []
+
+[183] [184
+
+]
+Missing character: There is no   in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [185
+
+]) [186
+
+]
+\openout2 = `./tex/secondDerivatives.aux'.
+
+ (./tex/secondDerivatives.tex
 باب 15.
 
 Underfull \hbox (badness 10000) in paragraph at lines 21--25
 [][]
  []
 
-[169] [170] [171]
+[187
+
+
+
+
+] [188] [189]
 Underfull \hbox (badness 10000) in paragraph at lines 161--172
 [][]
  []
@@ -4556,7 +4843,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 218--220
 [][]
  []
 
-[172]
+[190]
 Underfull \hbox (badness 10000) in paragraph at lines 226--253
 [][]
  []
@@ -4571,7 +4858,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 262--268
 [][]
  []
 
-[173]
+[191]
 Underfull \hbox (badness 10000) in paragraph at lines 275--308
 [][]
  []
@@ -4586,17 +4873,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 311--334
 [][]
  []
 
-[174]
+[192]
 Underfull \hbox (badness 10000) in paragraph at lines 354--366
 [][]
  []
 
-[175]
+[193]
 Underfull \hbox (badness 10000) in paragraph at lines 402--410
 [][]
  []
 
-[176]
+[194]
 Underfull \hbox (badness 10000) in paragraph at lines 422--423
 [][]
  []
@@ -4606,12 +4893,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 433--468
 [][]
  []
 
-[177]
+[195]
 Underfull \hbox (badness 10000) in paragraph at lines 493--510
 [][]
  []
 
-[178]
+[196]
 Underfull \hbox (badness 10000) in paragraph at lines 521--525
 [][]
  []
@@ -4621,45 +4908,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 526--528
 [][]
  []
 
-) [179]
+) [197]
 \openout2 = `./tex/integration.aux'.
 
- (./tex/integration.tex [180
+ (./tex/integration.tex [198
 
 
 
 
 ]
 باب 16.
-) [181]
+) [199]
 \openout2 = `./tex/volumeOfRevolution.aux'.
 
- (./tex/volumeOfRevolution.tex [182
+ (./tex/volumeOfRevolution.tex [200
 
 
 
 
 ]
 باب 17.
-[183] [184] [185]
+[201] [202] [203]
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
- [186]
-Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
- [187]
+ [204]
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
 language=DFLT;!
-) [188]
+ [205]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+) [206]
 \openout2 = `./tex/radians.aux'.
 
  (./tex/radians.tex
 باب 18.
-[189
+[207
 
 
 
@@ -4679,7 +4966,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 120--128
 [][]
  []
 
-[190]
+[208]
 Underfull \hbox (badness 10000) in paragraph at lines 139--141
 [][]
  []
@@ -4689,7 +4976,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 152--154
 [][]
  []
 
-[191]
+[209]
 Underfull \hbox (badness 10000) in paragraph at lines 161--253
 [][]
  []
@@ -4711,7 +4998,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 255--278
 [][]
  []
 
-[192]
+[210]
 Underfull \hbox (badness 10000) in paragraph at lines 300--301
 [][]
  []
@@ -4726,7 +5013,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 322--323
 [][]
  []
 
-[193]
+[211]
 Underfull \hbox (badness 10000) in paragraph at lines 341--350
 [][]
  []
@@ -4741,7 +5028,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 363--398
 [][]
  []
 
-[194]
+[212]
 Underfull \hbox (badness 10000) in paragraph at lines 415--417
 [][]
  []
@@ -4761,7 +5048,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 446--448
 [][]
  []
 
-[195] [196] [197]
+[213] [214] [215]
 Underfull \hbox (badness 10000) in paragraph at lines 634--640
 [][]
  []
@@ -4771,7 +5058,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 665--669
 [][]
  []
 
-[198]
+[216]
 Underfull \hbox (badness 10000) in paragraph at lines 678--682
 [][]
  []
@@ -4786,7 +5073,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 709--713
 [][]
  []
 
-[199]
+[217]
 Underfull \hbox (badness 10000) in paragraph at lines 823--827
 [][]
  []
@@ -4796,7 +5083,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 832--975
 [][]
  []
 
-[200]
+[218]
 Underfull \hbox (badness 10000) in paragraph at lines 975--988
 [][]
  []
@@ -4811,7 +5098,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 997--1009
 [][]
  []
 
-[201]
+[219]
 Underfull \hbox (badness 10000) in paragraph at lines 1025--1034
 [][]
  []
@@ -4842,7 +5129,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1106--1154
 [][]
  []
 
-[202]
+[220]
 Underfull \hbox (badness 10000) in paragraph at lines 1156--1214
 [][]
  []
@@ -4852,11 +5139,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 1215--173
 [][]
  []
 
-[203] [204
+[221] [222
 
 
 
-] (./answer.tex) [205] [206
+] (./answer.tex) [223] [224
 
 
 ]
@@ -4899,4 +5186,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  78i,22n,136p,6440b,1357s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on FscMathsFirst.pdf (212 pages).
+Output written on FscMathsFirst.pdf (230 pages).
