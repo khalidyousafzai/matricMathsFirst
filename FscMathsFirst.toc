@@ -15,72 +15,89 @@
 \contentsline {section}{\numberline {2.3}طاقتوں کا استعمال}{26}% 
 \contentsline {section}{\numberline {2.4}صفر اور منفی طاقت}{28}% 
 \contentsline {section}{\numberline {2.5}کسری طاقتیں}{32}% 
-\contentsline {chapter}{\numberline {3}تفاعل اور ترسیمات}{41}% 
-\contentsline {chapter}{\numberline {4}دو درجی مساوات}{43}% 
-\contentsline {section}{\numberline {4.1}دو درجی الجبرا}{43}% 
-\contentsline {section}{\numberline {4.2} 2.4-کامل مربعی صورت}{44}% 
-\contentsline {section}{\numberline {4.3}مثال نمبر 4 . 2 .1}{45}% 
-\contentsline {section}{\numberline {4.4} مثال نمبر 4 . 2 . 2}{45}% 
-\contentsline {section}{\numberline {4.5} 4.3 مربع مکمل کرنا}{45}% 
-\contentsline {section}{\numberline {4.6} مثال نمبر 4.3.1}{45}% 
-\contentsline {section}{\numberline {4.7}مثال نمبر 4.3.2}{47}% 
-\contentsline {section}{\numberline {4.8} مثال نمبر 4.3.3}{47}% 
-\contentsline {section}{\numberline {4.9} مثال نمبر 4.3.4}{47}% 
-\contentsline {section}{\numberline {4.10} مثال نمبر 4.3.5}{48}% 
-\contentsline {section}{\numberline {4.11}مشق نمبر (A)4}{48}% 
-\contentsline {section}{\numberline {4.12} 4.4 دودرجی مساوات کو حل کرنا}{49}% 
-\contentsline {section}{\numberline {4.13} مثال نمبر 4.4.1}{50}% 
-\contentsline {section}{\numberline {4.14}مشق نمبر4B}{52}% 
-\contentsline {paragraph}{1}{52}% 
-\contentsline {paragraph}{2}{52}% 
-\contentsline {paragraph}{3}{52}% 
-\contentsline {paragraph}{4}{52}% 
-\contentsline {paragraph}{5}{52}% 
-\contentsline {paragraph}{6}{52}% 
-\contentsline {paragraph}{7}{52}% 
-\contentsline {paragraph}{8}{52}% 
-\contentsline {paragraph}{\hskip 1em\relax }{53}% 
-\contentsline {paragraph}{c}{53}% 
-\contentsline {section}{\numberline {4.15}4.6 ہمزاد مساوات}{53}% 
-\contentsline {section}{\numberline {4.16}مثال نمبر 4.6.1}{53}% 
-\contentsline {section}{\numberline {4.17} مثال نمبر 4.6.2}{53}% 
-\contentsline {section}{\numberline {4.18}4-6.3 مثال نمبر }{54}% 
-\contentsline {section}{\numberline {4.19} دودرجی مساوات ميں قابل تخفيف مساوات 4.7}{54}% 
-\contentsline {section}{\numberline {4.20}دودرجی مساوات ميں قابل تخفيف مساوات}{54}% 
-\contentsline {section}{\numberline {4.21} 4.7.1 مثال نمبر }{54}% 
-\contentsline {section}{\numberline {4.22} 4.7.2 مثال نمبر }{54}% 
-\contentsline {section}{\numberline {4.23}مشق نمبر 4C}{55}% 
-\contentsline {section}{\numberline {4.24} متفرق مشق 4 }{55}% 
-\contentsline {chapter}{\numberline {5}عدم مساوات}{59}% 
-\contentsline {section}{\numberline {5.1}عدم مساوات کے اشارے}{59}% 
-\contentsline {section}{\numberline {5.2}لکیری عدم مساوات کا حل کرنا}{60}% 
-\contentsline {section}{\numberline {5.3}دونوں اطراف میں ایک ہیتعداد میں اضافہ یا گھٹانا}{60}% 
-\contentsline {section}{\numberline {5.4}ایک مثبت تعداد کے ذریعے دونوں اطراف سے ضرب کرنا}{60}% 
-\contentsline {section}{\numberline {5.5}دونوں اطاف کو منفی تعداد سے ضرب کرنا}{61}% 
-\contentsline {section}{\numberline {5.6}عدم مساوات پر آپریشن کا خلاصہ}{61}% 
-\contentsline {chapter}{\numberline {6}تفرق}{65}% 
-\contentsline {chapter}{\numberline {7}تفرق کے استعمال}{67}% 
-\contentsline {section}{\numberline {7.1}تفرقات بہ صورت تفاعلات}{68}% 
-\contentsline {section}{\numberline {7.2}بڑھتے ہوۓ اور گھٹتے ہوۓ تفاعلات}{69}% 
-\contentsline {section}{\numberline {7.3}ذیادہ سے ذیادہ اور کم سے کم نقطے}{71}% 
-\contentsline {section}{\numberline {7.4}متفرقات، تبدیلی کی شرح کے موافق}{76}% 
-\contentsline {chapter}{\numberline {8}ترتیبات}{87}% 
-\contentsline {chapter}{\numberline {9}الکراجی کا مسئلہ ثنائی}{89}% 
-\contentsline {chapter}{\numberline {10}تکونیات}{91}% 
-\contentsline {section}{\numberline {10.1}\(\qopname \relax o{cos}{\theta }^{0}\)کی ترسیم }{91}% 
-\contentsline {section}{\numberline {10.2}\(\qopname \relax o{sin}{\theta }^{0}\)اور\(\qopname \relax o{tan}{\theta }^{0}\) کی ترسیم }{93}% 
-\contentsline {section}{\numberline {10.3}چند مثلق تفاعل کی درست قیمیتیں}{94}% 
-\contentsline {section}{\numberline {10.4}\( \qopname \relax o{cos}\theta ^o, \tmspace +\thinmuskip {.1667em}\qopname \relax o{sin}\theta ^o \) اور \(\qopname \relax o{tan}\theta ^o\) کی ترانیم کی تشاکل کی خصوصیات}{97}% 
-\contentsline {section}{\numberline {10.5}مثلثی تفاعل کی مساوات کا حل}{99}% 
-\contentsline {section}{\numberline {10.6}مثلثی تفاعل کے باہمی روابط}{103}% 
-\contentsline {chapter}{\numberline {11}تفاعل کا مجموعہ اور تفاعل کا الٹ}{113}% 
-\contentsline {chapter}{\numberline {12}وسعت تفرق}{115}% 
-\contentsline {chapter}{\numberline {13}سمتیات}{117}% 
-\contentsline {chapter}{\numberline {14}ہندسی ترتیبات}{119}% 
-\contentsline {chapter}{\numberline {15}دہرا تفرقات}{121}% 
-\contentsline {chapter}{\numberline {16}تکمل}{133}% 
-\contentsline {chapter}{\numberline {17}حجم جسم طواف}{135}% 
-\contentsline {section}{\numberline {17.1}انقلاب کی جلدیں}{135}% 
-\contentsline {section}{\numberline {17.2}\(y\)-محور کے گرد انقلاب کی جلدیں}{137}% 
-\contentsline {chapter}{\numberline {18}ریڈیئن}{141}% 
-\contentsline {chapter}{جوابات}{157}% 
+\contentsline {chapter}{\numberline {3}تفاعل اور خم}{41}% 
+\contentsline {section}{\numberline {3.1}ایک تفاعل کی تعریف}{42}% 
+\contentsline {section}{\numberline {3.2}ترسیم، عملی میدان اور سعت}{42}% 
+\contentsline {section}{\numberline {3.3}\tmspace +\medmuskip {.2222em} \ensuremath {x} \tmspace +\medmuskip {.2222em}کی طاقتوں کے ترسیم}{47}% 
+\contentsline {subsection}{\numberline {3.3.1}مثبت صحیح عددی طاقتیں}{47}% 
+\contentsline {subsection}{\numberline {3.3.2}منفی صحیح عددی طاقتیں}{48}% 
+\contentsline {subsection}{\numberline {3.3.3}کسر کی صورت میں طاقتیں}{49}% 
+\contentsline {section}{\numberline {3.4}ایک عدد کا مقیاس}{50}% 
+\contentsline {section}{\numberline {3.5}مساوات \(y=ax^{2}+bx+c\) کے ترسیم}{53}% 
+\contentsline {section}{\numberline {3.6}مساوات \(y=ax^{2}+bx+c\)سے بنے ترسیموں کی اشکال}{54}% 
+\contentsline {section}{\numberline {3.7}دو ترسیموں کا مشترکہ نقطہ}{55}% 
+\contentsline {section}{\numberline {3.8}اجزاء کی مدد سے ترسیمات بنانا}{58}% 
+\contentsline {section}{\numberline {3.9}مثال 3.8.1}{58}% 
+\contentsline {section}{\numberline {3.10}ترسیم سے مساوات کا اندازہ لگانا}{59}% 
+\contentsline {chapter}{\numberline {4}دو درجی مساوات}{67}% 
+\contentsline {section}{\numberline {4.1}دو درجی الجبرا}{67}% 
+\contentsline {section}{\numberline {4.2} 2.4-کامل مربعی صورت}{68}% 
+\contentsline {section}{\numberline {4.3}مثال نمبر 4 . 2 .1}{69}% 
+\contentsline {section}{\numberline {4.4} مثال نمبر 4 . 2 . 2}{69}% 
+\contentsline {section}{\numberline {4.5} 4.3 مربع مکمل کرنا}{69}% 
+\contentsline {section}{\numberline {4.6} مثال نمبر 4.3.1}{69}% 
+\contentsline {section}{\numberline {4.7}مثال نمبر 4.3.2}{71}% 
+\contentsline {section}{\numberline {4.8} مثال نمبر 4.3.3}{71}% 
+\contentsline {section}{\numberline {4.9} مثال نمبر 4.3.4}{71}% 
+\contentsline {section}{\numberline {4.10} مثال نمبر 4.3.5}{72}% 
+\contentsline {section}{\numberline {4.11}مشق نمبر (A)4}{72}% 
+\contentsline {section}{\numberline {4.12} 4.4 دودرجی مساوات کو حل کرنا}{73}% 
+\contentsline {section}{\numberline {4.13} مثال نمبر 4.4.1}{74}% 
+\contentsline {section}{\numberline {4.14}مشق نمبر4B}{76}% 
+\contentsline {paragraph}{1}{76}% 
+\contentsline {paragraph}{2}{76}% 
+\contentsline {paragraph}{3}{76}% 
+\contentsline {paragraph}{4}{76}% 
+\contentsline {paragraph}{5}{76}% 
+\contentsline {paragraph}{6}{76}% 
+\contentsline {paragraph}{7}{76}% 
+\contentsline {paragraph}{8}{76}% 
+\contentsline {paragraph}{\hskip 1em\relax }{77}% 
+\contentsline {paragraph}{c}{77}% 
+\contentsline {section}{\numberline {4.15}4.6 ہمزاد مساوات}{77}% 
+\contentsline {section}{\numberline {4.16}مثال نمبر 4.6.1}{77}% 
+\contentsline {section}{\numberline {4.17} مثال نمبر 4.6.2}{77}% 
+\contentsline {section}{\numberline {4.18}4-6.3 مثال نمبر }{78}% 
+\contentsline {section}{\numberline {4.19} دودرجی مساوات ميں قابل تخفيف مساوات 4.7}{78}% 
+\contentsline {section}{\numberline {4.20}دودرجی مساوات ميں قابل تخفيف مساوات}{78}% 
+\contentsline {section}{\numberline {4.21} 4.7.1 مثال نمبر }{78}% 
+\contentsline {section}{\numberline {4.22} 4.7.2 مثال نمبر }{78}% 
+\contentsline {section}{\numberline {4.23}مشق نمبر 4C}{79}% 
+\contentsline {section}{\numberline {4.24} متفرق مشق 4 }{79}% 
+\contentsline {chapter}{\numberline {5}عدم مساوات}{83}% 
+\contentsline {section}{\numberline {5.1}عدم مساوات کے اشارے}{83}% 
+\contentsline {section}{\numberline {5.2}لکیری عدم مساوات کا حل کرنا}{84}% 
+\contentsline {section}{\numberline {5.3}دونوں اطراف میں ایک ہیتعداد میں اضافہ یا گھٹانا}{84}% 
+\contentsline {section}{\numberline {5.4}ایک مثبت تعداد کے ذریعے دونوں اطراف سے ضرب کرنا}{84}% 
+\contentsline {section}{\numberline {5.5}دونوں اطاف کو منفی تعداد سے ضرب کرنا}{85}% 
+\contentsline {section}{\numberline {5.6}عدم مساوات پر آپریشن کا خلاصہ}{85}% 
+\contentsline {chapter}{\numberline {6}تفرق}{89}% 
+\contentsline {section}{\numberline {6.1}خط مماس کا ڈھلاؤ معلوم کرنا}{89}% 
+\contentsline {section}{\numberline {6.2} تفریق کے کچھ اصول}{101}% 
+\contentsline {section}{\numberline {6.3}دو درجی ترسیم کے ڈھلاؤ کا کلیہ}{106}% 
+\contentsline {section}{\numberline {6.4}چند مزید تفاعل کے ڈھلاؤ کے کلیے}{110}% 
+\contentsline {chapter}{\numberline {7}تفرق کے استعمال}{115}% 
+\contentsline {section}{\numberline {7.1}تفرقات بہ صورت تفاعلات}{116}% 
+\contentsline {section}{\numberline {7.2}بڑھتے ہوۓ اور گھٹتے ہوۓ تفاعلات}{117}% 
+\contentsline {section}{\numberline {7.3}ذیادہ سے ذیادہ اور کم سے کم نقطے}{119}% 
+\contentsline {section}{\numberline {7.4}متفرقات، تبدیلی کی شرح کے موافق}{124}% 
+\contentsline {chapter}{\numberline {8}ترتیبات}{135}% 
+\contentsline {chapter}{\numberline {9}الکراجی کا مسئلہ ثنائی}{137}% 
+\contentsline {chapter}{\numberline {10}تکونیات}{139}% 
+\contentsline {section}{\numberline {10.1}\(\qopname \relax o{cos}{\theta }^{0}\)کی ترسیم }{139}% 
+\contentsline {section}{\numberline {10.2}\(\qopname \relax o{sin}{\theta }^{0}\)اور\(\qopname \relax o{tan}{\theta }^{0}\) کی ترسیم }{141}% 
+\contentsline {section}{\numberline {10.3}چند مثلق تفاعل کی درست قیمیتیں}{142}% 
+\contentsline {section}{\numberline {10.4}\( \qopname \relax o{cos}\theta ^o, \tmspace +\thinmuskip {.1667em}\qopname \relax o{sin}\theta ^o \) اور \(\qopname \relax o{tan}\theta ^o\) کی ترانیم کی تشاکل کی خصوصیات}{145}% 
+\contentsline {section}{\numberline {10.5}مثلثی تفاعل کی مساوات کا حل}{147}% 
+\contentsline {section}{\numberline {10.6}مثلثی تفاعل کے باہمی روابط}{151}% 
+\contentsline {chapter}{\numberline {11}تفاعل کا مجموعہ اور تفاعل کا الٹ}{161}% 
+\contentsline {chapter}{\numberline {12}وسعت تفرق}{163}% 
+\contentsline {chapter}{\numberline {13}سمتیات}{165}% 
+\contentsline {chapter}{\numberline {14}ہندسی ترتیبات}{167}% 
+\contentsline {chapter}{\numberline {15}دہرا تفرقات}{169}% 
+\contentsline {chapter}{\numberline {16}تکمل}{181}% 
+\contentsline {chapter}{\numberline {17}حجم جسم طواف}{183}% 
+\contentsline {section}{\numberline {17.1}انقلاب کی جلدیں}{183}% 
+\contentsline {section}{\numberline {17.2}\(y\)-محور کے گرد انقلاب کی جلدیں}{185}% 
+\contentsline {chapter}{\numberline {18}ریڈیئن}{189}% 
+\contentsline {chapter}{جوابات}{205}% 
