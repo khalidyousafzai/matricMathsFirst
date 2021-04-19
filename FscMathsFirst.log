@@ -1,8 +1,8 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  26 FEB 2021 20:07
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  19 APR 2021 13:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**FscMathsFirst
+**FscMathsFirst.tex
 (./FscMathsFirst.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14>
@@ -1790,9 +1790,9 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-20212261207.tex)...disabled (restricted).
+runsystem(touch w18-test-2021419819.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-20212261207.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2021419819.tex)...disabled (restricted).
 
 runsystem(rm -f "FscMathsFirst.gnuploterrors")...disabled (restricted).
 
@@ -1846,28 +1846,28 @@ No file ./tex/prefaceFirstBook.aux.
 ) (./tex/integration.aux) (./tex/volumeOfRevolution.aux) (./tex/radians.aux))
 \openout1 = `FscMathsFirst.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 126.
-LaTeX Font Info:    ... okay on input line 126.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 126.
-LaTeX Font Info:    ... okay on input line 126.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 126.
-LaTeX Font Info:    ... okay on input line 126.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 126.
-LaTeX Font Info:    ... okay on input line 126.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 126.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 128.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-26.
+28.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 126.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 126.
-LaTeX Font Info:    ... okay on input line 126.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 126.
-LaTeX Font Info:    ... okay on input line 126.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 126.
-LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
 
 ABD: EveryShipout initializing macros
 Package pgfplots notification 'compat/show suggested version=true': document ha
@@ -1882,7 +1882,7 @@ Dictionary: translator-basic-dictionary, Language: English
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
 
-Package chemgreek Info: Activating mapping `fontspec' on line 126.
+Package chemgreek Info: Activating mapping `fontspec' on line 128.
 
 
 *geometry* driver: auto-detecting
@@ -1923,72 +1923,72 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box137
 LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1
-26.
+28.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-126.
+128.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-126.
+128.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-126.
+128.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 126.
+(Font)              scaled to size 10.42007pt on input line 128.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 126.
+(Font)              scaled to size 7.91925pt on input line 128.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 126.
+(Font)              scaled to size 6.25204pt on input line 128.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 126.
+(Font)              scaled to size 10.42007pt on input line 128.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 126.
+(Font)              scaled to size 7.91925pt on input line 128.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 126.
+(Font)              scaled to size 6.25204pt on input line 128.
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-126.
+128.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 12
-6.
+8.
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 127.
+(Font)              scaled to size 10.0pt on input line 129.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 138.
+(Font)              scaled to size 17.28pt on input line 140.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 138.
+(Font)              scaled to size 9.0pt on input line 140.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 138.
+(Font)              scaled to size 12.0pt on input line 140.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 138.
+(Font)              scaled to size 12.50409pt on input line 140.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 138.
+(Font)              scaled to size 9.37807pt on input line 140.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 138.
+(Font)              scaled to size 7.29405pt on input line 140.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 138.
+(Font)              scaled to size 12.50409pt on input line 140.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 138.
+(Font)              scaled to size 9.37807pt on input line 140.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 138.
+(Font)              scaled to size 7.29405pt on input line 140.
 
 Package fontspec Info: Font family 'DejaVuSansMono(1)' created for font
 (fontspec)             'DejaVu Sans Mono' with options
@@ -2042,12 +2042,12 @@ Space,Script=Arabic].
 
 ]
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 140.
+(Font)              scaled to size 24.88pt on input line 142.
 
 
 LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(0)/b/n' undefined
 (Font)              using `TU/JameelNooriNastaleeq(0)/m/n' instead on input lin
-e 140.
+e 142.
 
 (./FscMathsFirst.toc
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/b/n' will be
@@ -2369,12 +2369,7 @@ Missing character: There is no ا in font zplmr7m!
 Missing character: There is no ن in font zplmr7m!
 Missing character: There is no و in font zplmr7m!
 Missing character: There is no ن in font zplmr7m!
- [30] [31] [32] [33] [34] [35] [36] [37] [38]
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
- [39] [40]
+ [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40]
 Underfull \hbox (badness 10000) in paragraph at lines 1197--1199
 [][]$[][][][] \OT1/zplm/m/n/10 +$[]
  []
@@ -3853,94 +3848,14 @@ Overfull \hbox (3.72018pt too wide) in paragraph at lines 625--626
  []
 
 [179]
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq Italic/OT:scrip
 t=arab;language=dflt;!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq Italic/OT:scrip
 t=arab;language=dflt;!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq Italic/OT:scrip
 t=arab;language=dflt;!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq Italic/OT:scrip
 t=arab;language=dflt;!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
 
 
 LaTeX Warning: Command \l invalid in math mode on input line 673.
@@ -3950,290 +3865,33 @@ LaTeX Warning: Command \l invalid in math mode on input line 673.
 
 Missing character: There is no ł in font zplmr7m!
 Missing character: There is no ł in font zplmr7m!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
 [180]
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-
 
 LaTeX Warning: Command \l invalid in math mode on input line 680.
 
 Missing character: There is no ł in font zplmr7m!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq Italic/OT:scrip
 t=arab;language=dflt;!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
 
-Overfull \hbox (1.07324pt too wide) in paragraph at lines 684--686
+Overfull \hbox (4.53027pt too wide) in paragraph at lines 684--686
 []\TU/JameelNooriNastaleeq(0)/m/sl/10 یہ $[] \OML/zplm/m/it/10 ^^R[]$ \TU/Jamee
 lNooriNastaleeq(0)/m/sl/10 میں ایک دو طاقتی مساوات ہے جس کے آپ اجزاۓ ضربی بنا س
 کتے ہیں$\OT1/zplm/m/n/10 (\OT1/ppl/m/n/10 3 [] \OML/zplm/m/it/10 ^^R[] \OMS/zpl
 m/m/n/10 ^^@$[]
  []
 
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
 
 LaTeX Warning: Command \l invalid in math mode on input line 711.
 
 Missing character: There is no ł in font zplmr7m!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
 [181]
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq Italic/OT:scrip
 t=arab;language=dflt;!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq Italic/OT:scrip
 t=arab;language=dflt;!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
  [182]
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq Italic/OT:scrip
 t=arab;language=dflt;!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
 
 
 LaTeX Warning: Command \l invalid in math mode on input line 796.
@@ -4243,230 +3901,17 @@ LaTeX Warning: Command \l invalid in math mode on input line 796.
 
 Missing character: There is no ł in font zplmr7m!
 Missing character: There is no ł in font zplmr7m!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
 [183]
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq Italic/OT:scrip
 t=arab;language=dflt;!
- [184]
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
- [185]
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
+ [184] [185]
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq Italic/OT:scrip
 t=arab;language=dflt;!
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq Italic/OT:scrip
 t=arab;language=dflt;!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
  [186]
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq Italic/OT:scrip
 t=arab;language=dflt;!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
 ) [187]
 \openout2 = `./tex/combiningAndInvertingFunctions.aux'.
 
@@ -4963,19 +4408,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 161--253
  []
 
 [242]
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-
 Underfull \hbox (badness 10000) in paragraph at lines 255--278
 [][]
  []
@@ -5099,10 +4531,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 1042--1043
 [][]
  []
 
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
-Missing character: There is no ° in font pplr7t!
 
 Underfull \hbox (badness 10000) in paragraph at lines 1096--1105
 [][]
@@ -5119,7 +4547,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1156--1214
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 1215--173
+Underfull \hbox (badness 10000) in paragraph at lines 1215--175
 [][]
  []
 
@@ -5181,8 +4609,8 @@ braces):
 >  {english/babelname}  =>  {american}
 >  {english/localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {english/Localnumeral}  =>  {polyglossia@C@localnumeral}.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 231.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 231.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 233.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 233.
  (./FscMathsFirst.aux
 No file ./tex/calculusPreface.aux.
 No file ./tex/prefaceFirstBook.aux.
@@ -5193,8 +4621,8 @@ No file ./tex/prefaceFirstBook.aux.
 (./tex/combiningAndInvertingFunctions.aux) (./tex/extendingDifferentiation.aux)
 (./tex/vectors.aux) (./tex/geometricSequences.aux) (./tex/secondDerivatives.aux
 ) (./tex/integration.aux) (./tex/volumeOfRevolution.aux) (./tex/radians.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 231.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 231.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 233.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 233.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -5203,15 +4631,15 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 231.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 233.
  ) 
 Here is how much of TeX's memory you used:
- 54800 strings out of 479819
- 1441147 string characters out of 11645846
- 14060816 words of memory out of 24000000
- 70752 multiletter control sequences out of 15000+600000
- 586622 words of font info for 256 fonts, out of 12000000 for 9000
+ 54802 strings out of 479819
+ 1441242 string characters out of 11645846
+ 14060823 words of memory out of 24000000
+ 70753 multiletter control sequences out of 15000+600000
+ 586630 words of font info for 257 fonts, out of 12000000 for 9000
  1348 hyphenation exceptions out of 8191
- 78i,22n,136p,6440b,1313s stack positions out of 5000i,500n,10000p,12000000b,80000s
+ 78i,22n,136p,6444b,1313s stack positions out of 5000i,500n,10000p,12000000b,80000s
 
 Output written on FscMathsFirst.pdf (264 pages).
