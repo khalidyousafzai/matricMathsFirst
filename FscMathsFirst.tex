@@ -18,6 +18,7 @@
 \usepackage{ifdraft}
 \usepackage{multicol}                                        %for getting multicolumn itemize, enumerate etc
 \usepackage{enumerate}                   %for getting better auto numbering in enumerate
+\usepackage{comment}
 
 %pathmorphing gives the ripples like look
 \usetikzlibrary{shapes,snakes,3d,shadings,fadings,intersections,calc,decorations.markings,decorations.pathreplacing,external,shapes.misc,decorations.pathmorphing,patterns}
@@ -57,10 +58,12 @@
 
 %\renewcommand{\arraystretch}{2}   %space in tables and arrays
 
-
+\begin{comment}
 \sisetup{
 math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
   math-degree=\textup{°}}   %with mathpazo this is needed else must not be here. now micro is smaller
+\end{comment}
+
 \DeclareSIUnit \var {var}    %used in electric circuits volt-ampere-reactive
 
 \input longdiv.tex
@@ -122,11 +125,14 @@ math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %\linenumbers
+
+\setlatin
+
 \makeindex
 
 %==========
 \begin{document}
-\begin{urdufont}
+\sloppy
 
 
 \renewcommand*{\contentsname}{عنوان}    %this command has to be placed right here
@@ -141,8 +147,7 @@ math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
 
 \tableofcontents
 \pagestyle{empty}
-\newpage
-\include{./tex/calculusPreface}
+
 \newpage
 \include{./tex/prefaceFirstBook}
 %\newpage
@@ -229,5 +234,4 @@ math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
 %\printindex
 
 
-\end{urdufont}
 \end{document}
