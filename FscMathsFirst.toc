@@ -2,8 +2,8 @@
 \selectlanguage *{urdu}
 \contentsline {chapter}{\numberline {\farsidigits {1}}محدد، نقطے اور خط}{\farsidigits {1}}{}%
 \contentsline {section}{\numberline {\farsidigits {1}.\farsidigits {1}}دو نقطوں کے بیچ کا فاصلہ}{\farsidigits {1}}{}%
-\contentsline {section}{\numberline {\farsidigits {1}.\farsidigits {2}}قطع لکیر کا وسط}{\farsidigits {2}}{}%
-\contentsline {section}{\numberline {\farsidigits {1}.\farsidigits {3}}قطع خط کا ڈھلاؤ}{\farsidigits {4}}{}%
+\contentsline {section}{\numberline {\farsidigits {1}.\farsidigits {2}}قطعہ لکیر کا وسط}{\farsidigits {2}}{}%
+\contentsline {section}{\numberline {\farsidigits {1}.\farsidigits {3}}قطعہ خط کا ڈھلاؤ}{\farsidigits {4}}{}%
 \contentsline {section}{\numberline {\farsidigits {1}.\farsidigits {4}}ایک سیدھی لکیر یا خط کی مساوات سے کیا مراد ہے ؟}{\farsidigits {8}}{}%
 \contentsline {section}{\numberline {\farsidigits {1}.\farsidigits {5}}لکیر کی مساوات}{\farsidigits {8}}{}%
 \contentsline {section}{\numberline {\farsidigits {1}.\farsidigits {6}}لکیر کی مساوات کی پہچان}{\farsidigits {9}}{}%
