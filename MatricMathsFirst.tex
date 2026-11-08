@@ -18,6 +18,7 @@
 \usepackage{ifdraft}
 \usepackage{multicol}                                        %for getting multicolumn itemize, enumerate etc
 \usepackage{enumerate}                   %for getting better auto numbering in enumerate
+\usepackage{comment}
 
 %pathmorphing gives the ripples like look
 \usetikzlibrary{shapes,snakes,3d,shadings,fadings,intersections,calc,decorations.markings,decorations.pathreplacing,external,shapes.misc,decorations.pathmorphing,patterns}
@@ -57,8 +58,12 @@
 
 %\renewcommand{\arraystretch}{2}   %space in tables and arrays
 
+\begin{comment}
+\sisetup{
+math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
+  math-degree=\textup{°}}   %with mathpazo this is needed else must not be here. now micro is smaller
+\end{comment}
 
-\sisetup{math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega}   %with mathpazo this is needed else must not be here. now micro is smaller
 \DeclareSIUnit \var {var}    %used in electric circuits volt-ampere-reactive
 
 \input longdiv.tex
@@ -82,6 +87,7 @@
 \input{./tex/myDeclareFunctions.tex}     %\sech, \csch, \arcsh, \arcs   hyperbolic and arc-secant etc
 \input{./tex/myCircuitDimensionsAndMathematicalSymbols.tex} % resistor sizes and Laplace, Fourier, Complex, Phasor, etc  symbols
 \input{./tex/myTikzCommandsCircuitAnalysis.tex}
+\input{./tex/myConfigurableTechicalTerms.tex}	%uses dictionary entries for the technical terms used. useage:    \بدل{عنصر_سمتیہ}
 
 
 
@@ -89,9 +95,9 @@
 
 %\graphicspath{{./fig/figFrontPage/}{./fig/figCalculusLimits/}{./fig/figCalculusDerivatives/}{./fig/figCalculusIntegration/}{./fig/figCalculusApplicationsOfIntegrals}{./fig/figCalculusTechniquesOfIntegration/}}%paths to figures
 %
-\includeonly{./tex/coordinatesPointsAndLines,./tex/surdsAndIndices,./tex/funtionsAndGraphs,./tex/quadratics,./tex/inequalities,./tex/differentiation,./tex/applicationsOfDifferentiation,./tex/sequences,./tex/theBinomialTheorem,./tex/trignometry,./tex/combiningAndInvertingFunctions,./tex/extendingDifferentiation,./tex/vectors,./tex/geometricSequences,./tex/secondDerivatives,./tex/integration,./tex/volumeOfRevolution,./tex/radians}%
+%\includeonly{./tex/coordinatesPointsAndLines,./tex/surdsAndIndices,./tex/funtionsAndGraphs,./tex/quadratics,./tex/inequalities,./tex/differentiation,./tex/applicationsOfDifferentiation,./tex/sequences,./tex/theBinomialTheorem,./tex/trignometry,./tex/combiningAndInvertingFunctions,./tex/extendingDifferentiation,./tex/vectors,./tex/geometricSequences,./tex/secondDerivatives,./tex/integration,./tex/volumeOfRevolution,./tex/radians}%
 %
-%\includeonly{,./tex/theBinomialTheorem}%
+\includeonly{,./tex/prefaceMatricMathsFirst,./tex/coordinatesPointsAndLines}%
 
 \author{
 طلبہ و طالبات\\
@@ -104,7 +110,7 @@
 
 
 
-\title{{ریاضیات اول}\small\\ {برائے گیاریوں اور بارویں جماعت}}
+\title{{ریاضیات اول}\small\\ {برائے دسویں  جماعت}}
 \date{}                           %if absent gives date in arabic which is a rubbish
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -120,11 +126,14 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %\linenumbers
+
+\setlatin
+
 \makeindex
 
 %==========
 \begin{document}
-\begin{urdufont}
+\sloppy
 
 
 \renewcommand*{\contentsname}{عنوان}    %this command has to be placed right here
@@ -139,10 +148,10 @@
 
 \tableofcontents
 \pagestyle{empty}
-\newpage
-\include{./tex/calculusPreface}
+
 \newpage
 \include{./tex/prefaceFirstBook}
+\include{./tex/prefaceMatricMathsFirst}
 %\newpage
 %\include{./tex/cktSymbols}
 
@@ -227,5 +236,4 @@
 %\printindex
 
 
-\end{urdufont}
 \end{document}
