@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.6.2)  7 NOV 2026 20:07
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.6.2)  8 NOV 2026 13:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1609,9 +1609,9 @@ Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write5
-runsystem(touch w18-test-20261171207.tex)...disabled (restricted).
+runsystem(touch w18-test-2026118825.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-20261171207.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2026118825.tex)...disabled (restricted).
 
 runsystem(rm -f "FscMathsFirst.gnuploterrors")...disabled (restricted).
 
@@ -1885,6 +1885,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--2
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+[][]\TU/JameelNooriNastaleeq(2)/b/n/10 یہ کتاب کامسیٹ یونیورسٹی، اسلام آباد کے 
+شعبہ طبیعیات کے درج ذیل طلبہ و طالبات نے اسسٹنٹ پروفیسر زرقا زاہد کے زیر نگرانی
+ تشکیل دی۔طلبا کو چار[]
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 [][]\TU/JameelNooriNastaleeq(2)/b/n/10 Adiqa Hamza, Amber Riaz Khan, Ammara, An
 ila , Arfa Khatoon , Arwa Hassan, Asad,[]
@@ -1911,25 +1918,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 []\TU/JameelNooriNastaleeq(2)/b/n/10 M Zakir, Maan Malik, Mahnoor Mehmood, Mali
-k Hunza Awan, Mirza Akbar Ali, Misbah[]
+k Hunza Awan, Misbah Batool, Misbah[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 Batool, Misbah Shaheen, Muhammad Ammar Kha
-n, Muhammad Moosa, Muhammad[]
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 Shaheen, Muhammad Moosa, Muhammad Sohail, 
+Nida Barkat, Noor ul Wara, Owais, Qurat[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 Sohail, Nida Barkat, Noor ul Wara, Owais, 
-Qurat ul Ain, Raza, Saadullah Pirzada, Sabeen,[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 Sabeen Abid, Sana Noor, Sana Shabbir, Shah
-meer, Shan Tariq, Syed Aza Muhammad Kazmi,[]
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 ul Ain, Raza, Saadullah Pirzada, Sabeen, S
+abeen Abid, Sana Noor, Sana Shabbir, Shan Tariq,[]
  []
 
 ) [7
@@ -2755,7 +2756,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  62053 strings out of 474878
- 1688292 string characters out of 9512517
+ 1688290 string characters out of 9512517
  2557129 words of memory out of 7000000
  83013 multiletter control sequences out of 15000+600000
  592241 words of font info for 171 fonts, out of 8000000 for 9000
